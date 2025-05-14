@@ -1,0 +1,2 @@
+# UBUNTU-SERVER_OS
+INSTALLATION OF UBUNTU SERVER                          

